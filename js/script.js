@@ -45,3 +45,27 @@ console.log("Marnee ".length); // Spaces count as part of the string length
 /*****/
 
 document.title = "hello world!";
+
+
+// Day 1 Take Home
+
+
+
+// This is awesome! (single line comment!)
+
+
+/* 
+
+ToDo:
+
+-Finish Take home review
+-Move on to git review
+-go over primitive types
+*/
+
+console.group();
+console.log("nardos");
+console.log("French fries");
+console.groupEnd();
+console.log("not in the group");
+
